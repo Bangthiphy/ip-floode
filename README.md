@@ -4,4 +4,4 @@ git clone https://github.com/Bangthiphy/ip-floode
 
 cd ip-floode
 
-Python DDOS.py <ip> <Port> https
+Python DDOS.py ip> Port 
