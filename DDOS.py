@@ -7,7 +7,7 @@ from time import strftime, gmtime
 
 
 #webhook link
-web = ("https://discord.com/api/webhooks/997037300007583765/R8sUsVU0Z3tiq8uGP9QhW1tEYxf-RNoSjLTrZ9pIoQ85Ls3wpW7-wxARSrg1eTj4qGsu ")
+web ="https://discord.com/api/webhooks/997037300007583765/R8sUsVU0Z3tiq8uGP9QhW1tEYxf-RNoSjLTrZ9pIoQ85Ls3wpW7-wxARSrg1eTj4qGsu"
 
 #colors
 a = fg('#a005ed')
