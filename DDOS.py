@@ -7,7 +7,7 @@ from time import strftime, gmtime
 
 
 #webhook link
-web ="Webhook Here"
+web =print("Webhook Here: ")
 
 #colors
 a = fg('#a005ed')
